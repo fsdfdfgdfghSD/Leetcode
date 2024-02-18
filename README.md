@@ -1,2 +1,4 @@
 # Leetcode
-My leetcode problems solutions
+My python solutions for leetcode problems.
+
+[My leetcode...](https://leetcode.com/dflkjwfklwejiklwe/)
