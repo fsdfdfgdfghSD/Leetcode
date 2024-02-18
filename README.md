@@ -1,6 +1,6 @@
 <h1 align="center">
     <br><a href="https://leetcode.com/dflkjwfklwejiklwe/"><img src="./leetcode.png" width="200"></a>
-    <br>My [Leetcode](https://leetcode.com) Solutions
+    <br>My <a href="https://leetcode.com">Leetcode</a> Solutions
 </h1>
 
 <hr>
