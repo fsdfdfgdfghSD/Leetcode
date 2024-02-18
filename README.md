@@ -1,11 +1,11 @@
-<h1 align="center">
+<h3 align="center">
     <br><a href="https://leetcode.com/dflkjwfklwejiklwe/"><img src="./leetcode.png" width="200"></a>
     <br>My <a href="https://leetcode.com">Leetcode</a> Solutions
-</h1>
+</h3>
 
 <hr>
 
-# Problems
+## Problems
 |  #  | Problem | Difficulty | Solution |
 | --- | ----- | ----- | -------- |
 |1| [Two Sum](https://leetcode.com/problems/two-sum) | Easy | [Python3](./solutions/python3/easy/1.py)
